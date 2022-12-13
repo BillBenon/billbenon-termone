@@ -1,0 +1,160 @@
+.form-container{
+  
+  margin: 90px 460px;
+  padding-left: 60px;
+  border: 1px solid #cecece;
+  width: 590px;
+  height: 645px;
+  border-radius: 6px;
+  padding-bottom: 20px;
+}
+.labels{
+  font-size: 16px;
+  padding-right: 50px;
+}
+.input-field{
+  padding: 15px 20px;
+  width: 290px;
+  border: 1px solid #cecece;
+  font-size: 13px;
+  margin-left: 15px;
+}
+.email{
+  margin-right: 70px;
+}
+.form-field{
+  padding-top: 30px;
+}
+form{
+  margin-top: 80px;
+}
+.submit-btn{
+  background-color: #475d84;
+  border: none;
+  padding: 15px 30px;
+  margin-top: 70px;
+  width: 120px;
+  color: white;
+  font-size: 12px;
+  border-radius: 4px;
+}
+.title{
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+}
+.dont{
+  margin-top: 50px;
+}
+.sidebar{
+  margin-top: -12px;
+  height: 65.4rem;
+  width: 300px;
+  background-color: #475d84;
+  padding-top: 70px;
+  position: fixed;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.sidebar ul li{
+  display: block;
+  padding: 13px 30px;
+  color: #FFFFFF;
+  font-size: 14px;
+  position: relative;
+  text-decoration: none;
+}
+.sidebar ul li .item{
+  text-decoration: none;
+  color: #FFFFFF;
+  padding-left: 17px;
+}
+.sidebar li .sub{ 
+	list-style: none; 
+	margin: 0; 
+	padding: 0; 
+	padding-left: 1rem; 
+	padding-right: 1rem;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.logo{
+  margin-left: 100px;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 60px;
+}
+.text-center{
+  font-size: 25px;
+  margin-top: 40px;
+  font-weight: bolder;
+  margin-left: 50px;
+}
+.row{
+  width: 93%;
+  margin-left: 120px;
+}
+thead{
+  background-color: #475d84;
+  color: #FFFFFF;
+}
+th{
+  padding: 10px;
+}
+tbody td{
+  padding: 14px;
+  text-align: center;
+}
+tbody tr:nth-child(even){
+  background-color: #D9D9D9;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #E5E5E5;
+}
+
+table{
+  border-collapse: collapse;
+  width: 800px;
+  margin-top: 20px;
+}
+.add{
+  background-color: #475d84;
+  padding: 14px;
+  width: 100px;
+  border: none;
+  margin: 20px 60px;
+  border-radius: 2.5px;
+  color: white;
+  font-size: 11px;
+}
+.addLink{
+  text-decoration: none;
+  color: white;
+  font-size: 11px;
+}
+.sub-container{
+  margin-left: 300px;
+}
+.icon1{
+  margin-left: 80px;
+  margin-top: 100px;
+}
+.p{
+  padding: 50px 40px;
+}
+.delete{
+  background-color: #cf1717;
+  padding: 14px;
+  width: 100px;
+  border: none;
+  margin: 20px 60px;
+  border-radius: 2.5px;
+  color: white;
+  font-size: 11px;
+}
